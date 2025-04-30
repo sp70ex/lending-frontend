@@ -1,0 +1,119 @@
+.my-site{
+  text-align: center;
+  font-family:Gilroy;
+}
+header{
+	
+}
+.bg-light
+{
+	background-color:white!important;
+}
+
+.navbar-nav,
+.mr-auto {
+flex: 1;
+margin: auto !important;
+display: flex;
+justify-content: space-between;
+}
+.rod
+{
+	 position: absolute;
+}
+.pad
+{
+	padding-right:0px!important;
+	padding-left:0px!important;
+	padding:0px!important;
+}
+.wid
+{
+	max-width:945px;
+}
+.wids
+{
+	max-width:330px!important;
+}
+.widsmall
+{
+	max-width:317px!important;
+}
+.nav-link
+{
+	font-size:18px;
+	font-weight:bold;
+	padding-top:15px;
+	padding-bottom:15px;
+	
+	
+}
+hr
+{
+	font-weight:bold;
+}
+.t
+{
+	font-size:47px;
+	font-weight:bold;
+	text-align:left;
+}
+.tt
+{
+	font-size:18px;
+	text-align:left;
+	
+}
+.ttt
+{
+	position:relative;
+
+	font-size:16px;
+	text-align:bottom;
+}
+.ttt1
+{
+	position:absolute;
+	text-align:right;
+	writing-mode: tb-rl;
+	transform:rotate(180deg);
+	bottom: 0px; /* Положение от нижнего края */
+    right: 0px; /* Положение от правого края */
+}
+.ttt2
+{
+	position:absolute;
+	text-align:right;
+	writing-mode: tb-rl;
+	transform:rotate(360deg);
+	bottom: 0px; /* Положение от нижнего края */
+    right: 0px; /* Положение от правого края */
+}
+
+.flx
+{
+	flex-grow: 0!important;
+}
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    width:945px;
+    border-style: inset;
+    border-width: 1px;
+} 
+.silver
+{
+	background-color:#EEEEEE;
+}
+.portss
+{
+	text-color:black;
+}
+button {
+    background: black; /* Цвет фона */
+    border: 1px solid #7a7b7e; /* Параметры рамки */
+    width: 180px; /* Ширина кнопки */
+    height: 40px; /* Высота */
+    border-radius: 30px;
+}
